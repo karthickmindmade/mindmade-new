@@ -1,5 +1,4 @@
 import React from "react";
-import BrandClient from "./components/homepage/Brand_client";
 import Header from './components/header';
 import Curser from './components/curser';
 import Facts from "./components/homepage/facts";
@@ -32,7 +31,7 @@ function Homepage() {
                                                 <span>Product</span>
                                             </div>
                                             <h1 className="title user-no-selection">
-                                                <a href="#" className="effect-ajax" data-dsn-ajax="slider">Diesel Watch</a>
+                                                <a href="/" className="effect-ajax" data-dsn-ajax="slider">Diesel Watch</a>
                                             </h1>
 
                                             <div className="sub-text-header d-inline-block user-no-selection">
@@ -41,7 +40,7 @@ function Homepage() {
                                             </div>
 
                                             <div className="dsn-button-link mt-30 user-no-selection">
-                                                <a href="#" className="link-custom effect-ajax d-flex a-item-center p-relative" data-dsn-ajax="slider">
+                                                <a href="/" className="link-custom effect-ajax d-flex a-item-center p-relative" data-dsn-ajax="slider">
                                                     <span className="link-text">View Case</span>
                                                     <span className="link-circle p-absolute">
                                                         <i className="fas fa-arrow-right"></i>

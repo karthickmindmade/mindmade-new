@@ -9,7 +9,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/html-css.png" alt="" />
                                                 </a>
                                             </div>
@@ -18,7 +18,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/wordpress.png" alt="" />
                                                 </a>
                                             </div>
@@ -27,7 +27,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/angular.png" alt="" />
                                                 </a>
                                             </div>
@@ -36,7 +36,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/react.png" alt="" />
                                                 </a>
                                             </div>
@@ -45,7 +45,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a >
+                                                <a href="/">
                                                     <img src="assets/img/platform/vue.png" alt="" />
                                                 </a>
                                             </div>
@@ -54,7 +54,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/php.png" alt="" />
                                                 </a>
                                             </div>
@@ -63,7 +63,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/node.png" alt="" />
                                                 </a>
                                             </div>
@@ -72,7 +72,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/mangodb.png" alt="" />
                                                 </a>
                                             </div>
@@ -81,7 +81,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/woocommerce.png" alt="" />
                                                 </a>
                                             </div>
@@ -90,7 +90,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/opencart.png" alt="" />
                                                 </a>
                                             </div>
@@ -99,7 +99,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/shopify.png" alt="" />
                                                 </a>
                                             </div>
@@ -108,7 +108,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/joomla.png" alt="" />
                                                 </a>
                                             </div>
@@ -117,7 +117,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a href="/">
                                                     <img src="assets/img/platform/drupal.png" alt="" />
                                                 </a>
                                             </div>
