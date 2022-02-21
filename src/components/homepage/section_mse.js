@@ -45,7 +45,7 @@ function SectionMse(){
                                         <div className="slick-slide">
                                             <div className="after-bg p-absolute w-100 h-100 cover-bg" data-image-src=""></div>
                                             <div className="brand-item">
-                                                <a href="#">
+                                                <a >
                                                     <img src="assets/img/platform/vue.png" alt="" />
                                                 </a>
                                             </div>

@@ -1,10 +1,5 @@
-import React, {useEffect, useState} from "react";
-import { Routes, Route } from "react-router-dom";
-import About from "./about";
-import ReactDOM from 'react-dom'
+import React from "react";
 import Homepage from './homepage';
-
-
 
 function App() {
   
