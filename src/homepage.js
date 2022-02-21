@@ -15,6 +15,9 @@ function Homepage() {
 
     return (
         <div>
+            <head>
+            <title>MindMade Technologies</title>
+            </head>
         <Header />  
          <main class="main-root">
         <div id="dsn-scrollbar">
