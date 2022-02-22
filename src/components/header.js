@@ -6,7 +6,7 @@ function Header() {
         <div className="extend-container d-flex w-100 align-items-baseline justify-content-between align-items-end">
             <div className="inner-header p-relative">
                 <div className="main-logo">
-                    <a href="#" data-dsn="parallax">
+                    <a href="/#" data-dsn="parallax">
                         <img className="dark-logo" src="assets/img/logo-dark.png" alt="" />
                         <img className="light-logo" src="assets/img/logo.png" alt="" />
                     </a>
@@ -28,18 +28,18 @@ function Header() {
                 <div className="menu-cover-title">Menu</div>
                 <ul className="extend-container p-relative d-flex flex-column justify-content-center h-100">
                     <li className="dsn-active">
-                        <a href="#" className="user-no-selection">
+                        <a href="/#" className="user-no-selection">
                             <span className="dsn-title-menu">Home</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#" className="user-no-selection">
+                        <a href="/#" className="user-no-selection">
                             <span className="dsn-title-menu">About us</span>
                         </a>
                     </li>
         
                     <li className="dsn-drop-down">
-                        <a href="#" className="user-no-selection">
+                        <a href="/#" className="user-no-selection">
                             <span className="dsn-title-menu">Services</span>
                             <span className="dsn-bg-arrow"></span>
                         </a>
@@ -50,64 +50,64 @@ function Header() {
                                 <span className="dsn-title-menu">Services</span>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">Website Design</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">E-Commerce</span>
                                 </a>
                             </li>
         
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">Branding & Logo Design</span>
                                 </a>
                             </li>
         
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">Search Engine Optimisation</span>
                                 </a>
                             </li>
         
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">Digital Marketing</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">Mobile App Development</span>
                                 </a>
                             </li>
         
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu"> Software Development</span>
                                 </a>
                             </li>
         
                             <li>
-                                <a href="#">
+                                <a href="/#">
                                     <span className="dsn-title-menu">IT Offshore Outsourcing</span>
                                 </a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#" className="user-no-selection">
+                        <a href="/#" className="user-no-selection">
                             <span className="dsn-title-menu">Work</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#" className="user-no-selection">
+                        <a href="/#" className="user-no-selection">
                             <span className="dsn-title-menu">Story</span>
                         </a>
                     </li>
                     <li>
-                        <a href="#" className="user-no-selection">
+                        <a href="/#" className="user-no-selection">
                             <span className="dsn-title-menu">Contact us</span>
                         </a>
                     </li>
@@ -129,13 +129,13 @@ function Header() {
                                 Contact
                             </p>
                             <p className="links over-hidden">
-                                <a href="#" data-hover-text="+91-9566566699" className="link-hover">+91-9566566699</a>
+                                <a href="/#" data-hover-text="+91-9566566699" className="link-hover">+91-9566566699</a>
                             </p>
                             <p className="links over-hidden">
-                                <a href="#" data-hover-text="+91-9629596919" className="link-hover">+91-9629596919</a>
+                                <a href="/#" data-hover-text="+91-9629596919" className="link-hover">+91-9629596919</a>
                             </p>
                             <p className="links over-hidden">
-                                <a href="#" data-hover-text="info@mindmade.in" className="link-hover">info@mindmade.in</a>
+                                <a href="/#" data-hover-text="info@mindmade.in" className="link-hover">info@mindmade.in</a>
                             </p>
                         </div>
                     </div>
@@ -147,25 +147,25 @@ function Header() {
                             </p>
                             <ul>
                                 <li>
-                                    <a href="#" target="_blank" rel="nofollow">
+                                    <a href="/#" target="_blank" rel="nofollow">
                                         Dribbble.
                                         <div className="icon-circle"></div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank" rel="nofollow">
+                                    <a href="/#" target="_blank" rel="nofollow">
                                         Behance.
                                         <div className="icon-circle"></div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank" rel="nofollow">
+                                    <a href="/#" target="_blank" rel="nofollow">
                                         Linkedin.
                                         <div className="icon-circle"></div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank" rel="nofollow">
+                                    <a href="/#" target="_blank" rel="nofollow">
                                         Twitter.
                                         <div className="icon-circle"></div>
                                     </a>

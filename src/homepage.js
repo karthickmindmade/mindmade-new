@@ -9,13 +9,21 @@ import OurBlogs from "./components/homepage/our_blogs";
 import SectionMse from "./components/homepage/section_mse";
 import UixSpacing from "./components/homepage/uix_spacing";
 import MiniLogo from "./components/mini_logo";
-import ScrollToTop from "./components/scrol";
+
 import OurWorks from "./components/homepage/our_work";
 function Homepage() {
 
     return (
         <div>
             <head>
+            <meta name="language" content="english" />
+        <meta name="Expires" content="never" />
+        <meta name="revisit-after" content="Daily" />
+        <meta name="Author" content="mindmade.in" />
+        <meta name="Distribution" content="Global" />
+        <meta name="Rating" content="general" />
+        <meta name="region" content="India" />
+        <meta name="geo.region" content="Coimbatore" />
             <title>MindMade Technologies</title>
             </head>
         <Header />  

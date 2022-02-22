@@ -15,15 +15,15 @@ function OurBlogs(){
                         <div className="box-content p-relative h-100">
                             <div className="box-content-body h-100">
                                 <div className="entry-date">
-                                    <a href="#"> <span className="day">17</span> March</a>
+                                    <a href="/#"> <span className="day">17</span> March</a>
                                 </div>
 
                                 <div className="content-bottom">
-                                    <div className="category"><a href="#">Creative </a></div>
+                                    <div className="category"><a href="/#">Creative </a></div>
 
-                                    <h4 className="title-block"><a href="#">Will you be attending Affiliate Summit Europe?</a></h4>
+                                    <h4 className="title-block"><a href="/#">Will you be attending Affiliate Summit Europe?</a></h4>
 
-                                    <a href="#" className="link-vist p-relative">
+                                    <a href="/#" className="link-vist p-relative">
                                         <span className="link-vist-text">Load More</span>
 
                                         <div className="link-vist-arrow">
@@ -47,15 +47,15 @@ function OurBlogs(){
                         <div className="box-content p-relative h-100">
                             <div className="box-content-body h-100">
                                 <div className="entry-date">
-                                    <a href="#"> <span className="day">30</span> March</a>
+                                    <a href="/#"> <span className="day">30</span> March</a>
                                 </div>
 
                                 <div className="content-bottom">
-                                    <div className="category"><a href="#">Creative </a></div>
+                                    <div className="category"><a href="/#">Creative </a></div>
 
-                                    <h4 className="title-block"><a href="#">Will you be attending</a></h4>
+                                    <h4 className="title-block"><a href="/#">Will you be attending</a></h4>
 
-                                    <a href="#" className="link-vist p-relative">
+                                    <a href="/#" className="link-vist p-relative">
                                         <span className="link-vist-text">Load More</span>
 
                                         <div className="link-vist-arrow">
@@ -79,15 +79,15 @@ function OurBlogs(){
                         <div className="box-content p-relative h-100">
                             <div className="box-content-body h-100">
                                 <div className="entry-date">
-                                    <a href="#"> <span className="day">17</span> March</a>
+                                    <a href="/#"> <span className="day">17</span> March</a>
                                 </div>
 
                                 <div className="content-bottom">
-                                    <div className="category"><a href="#">Creative </a></div>
+                                    <div className="category"><a href="/#">Creative </a></div>
 
-                                    <h4 className="title-block"><a href="#">Will you be attending Affiliate Summit Europe?</a></h4>
+                                    <h4 className="title-block"><a href="/#">Will you be attending Affiliate Summit Europe?</a></h4>
 
-                                    <a href="#" className="link-vist p-relative">
+                                    <a href="/#" className="link-vist p-relative">
                                         <span className="link-vist-text">Load More</span>
 
                                         <div className="link-vist-arrow">

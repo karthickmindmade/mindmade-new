@@ -39,7 +39,7 @@ function UixSpacing(){
                                 <div className="animated-icon">
                                     <img src="assets/img/click-here.gif" alt="" />
                                 </div>
-                                <div className="uix-tabs__nav" id="#featured">
+                                <div className="uix-tabs__nav" id="/featured">
                                     <ul id="featured-links">
                                         <li className="active">
                                             <a href="javascript:void(0);">

@@ -15,7 +15,7 @@ function NextUp() {
                             Get In<br />
                             Touch!
                         </h2>
-                        <a href="#l" className="btn background-theme p-relative effect-ajax" data-dsn="parallax"><span>Contact us</span></a>
+                        <a href="/#l" className="btn background-theme p-relative effect-ajax" data-dsn="parallax"><span>Contact us</span></a>
 
                         <div className="infos d-flex a-item-center bd-highlight">
                             <div className="infos_content mr-auto">
@@ -23,7 +23,7 @@ function NextUp() {
                                 Works!
                             </div>
                             <div className="infos_button">
-                                <a href="#" className="effect-ajax image-zoom" data-dsn="parallax"> portfolio </a>
+                                <a href="/#" className="effect-ajax image-zoom" data-dsn="parallax"> portfolio </a>
                             </div>
                         </div>
                     </div>

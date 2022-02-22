@@ -23,14 +23,14 @@ function Footer() {
                             <div className="footer-social p-relative">
                                 <ul>
                                     <li className="over-hidden">
-                                        <a href="#" data-dsn="parallax" target="_blank" rel="nofollow">Dribbble.</a>
+                                        <a href="/#" data-dsn="parallax" target="_blank" rel="nofollow">Dribbble.</a>
                                     </li>
                                     <li className="over-hidden">
-                                        <a href="#" data-dsn="parallax" target="_blank" rel="nofollow">Behance.</a>
+                                        <a href="/#" data-dsn="parallax" target="_blank" rel="nofollow">Behance.</a>
                                     </li>
 
                                     <li className="over-hidden">
-                                        <a href="#" data-dsn="parallax" target="_blank" rel="nofollow">Twitter.</a>
+                                        <a href="/#" data-dsn="parallax" target="_blank" rel="nofollow">Twitter.</a>
                                     </li>
                                 </ul>
                             </div>
@@ -42,7 +42,7 @@ function Footer() {
                             <h4 className="footer-title">Contact</h4>
                             <p><strong>T</strong> <span>:</span> +91-9629596919</p>
                             <p><strong>C</strong> <span>:</span>+91-9566566699</p>
-                            <p className="over-hidden"><strong>E</strong> <span>:</span><a className="link-hover" data-hover-text="info@mindmade.in" href="#">info@mindmade.in</a></p>
+                            <p className="over-hidden"><strong>E</strong> <span>:</span><a className="link-hover" data-hover-text="info@mindmade.in" href="/#">info@mindmade.in</a></p>
                         </div>
                     </div>
 
@@ -64,11 +64,11 @@ function Footer() {
         <div className="footer-nav">
             <div className="container">
                 <ul>
-                    <li><a className="link-hover" data-dsn="parallax" href="#">Home</a></li>
-                    <li><a className="link-hover" data-dsn="parallax" href="#">About us</a></li>
-                    <li><a className="link-hover" data-dsn="parallax" href="#">Work</a></li>
-                    <li><a className="link-hover" data-dsn="parallax" href="#">Story</a></li>
-                    <li><a className="link-hover" data-dsn="parallax" href="#">Contact</a></li>
+                    <li><a className="link-hover" data-dsn="parallax" href="/#">Home</a></li>
+                    <li><a className="link-hover" data-dsn="parallax" href="/#">About us</a></li>
+                    <li><a className="link-hover" data-dsn="parallax" href="/#">Work</a></li>
+                    <li><a className="link-hover" data-dsn="parallax" href="/#">Story</a></li>
+                    <li><a className="link-hover" data-dsn="parallax" href="/#">Contact</a></li>
                 </ul>
             </div>
         </div>
