@@ -10,7 +10,7 @@ import Homepage from './homepage';
 function App() {
   
   return (
-    <BrowserRouter basename="/index.html">
+    <BrowserRouter>
    
             <Routes>
               <Route path="/" element={<Homepage />} />
