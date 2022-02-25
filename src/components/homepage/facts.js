@@ -1,3 +1,4 @@
+import React from 'react';
 function Facts(){
     return(
         <section className="facts p-relative have-dsn-animate-number">

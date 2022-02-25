@@ -1,3 +1,4 @@
+import React from 'react';
 function UixSpacing(){
     return(
         <section className="uix-spacing--m section-padding pb-0">
@@ -42,23 +43,23 @@ function UixSpacing(){
                                 <div className="uix-tabs__nav" id="/featured">
                                     <ul id="featured-links">
                                         <li className="active">
-                                            <a href="javascript:void(0);">
+                                            <a href="/">
                                                 <img src="assets/img/services/service-1.png" alt="" />
                                             </a>
 
                                         </li>
                                         <li>
-                                            <a href="javascript:void(0);">
+                                            <a href="/">
                                                 <img src="assets/img/services/service-2.png" alt="" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="javascript:void(0);">
+                                            <a href="/">
                                                 <img src="assets/img/services/service-3.png" alt="" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="javascript:void(0);">
+                                            <a href="/">
                                                 <img src="assets/img/services/service-4.png" alt="" />
                                             </a>
                                         </li>

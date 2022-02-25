@@ -1,3 +1,4 @@
+import React from 'react';
 function BrandClient(){
     return(
         <section className="brand-client">

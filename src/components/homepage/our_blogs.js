@@ -1,3 +1,4 @@
+import React from 'react';
 function OurBlogs(){
     return(
         <section className="our-blog our-blog-classNameic our-blog-sub section-margin p-relative" data-dsn-animate="section">

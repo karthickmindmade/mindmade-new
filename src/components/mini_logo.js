@@ -1,3 +1,4 @@
+import React from 'react';
 function MiniLogo(){
     return(
         <div className="logo-mini">

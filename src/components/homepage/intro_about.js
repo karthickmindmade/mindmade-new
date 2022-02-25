@@ -1,3 +1,4 @@
+import React from 'react';
 function IntroAbout(){
     return(
         <section className="intro-about have-dsn-animate-number section-padding bg-gray" data-dsn-animate="section">

@@ -16,14 +16,6 @@ function Homepage() {
     return (
         <div>
             <head>
-            <meta name="language" content="english" />
-        <meta name="Expires" content="never" />
-        <meta name="revisit-after" content="Daily" />
-        <meta name="Author" content="mindmade.in" />
-        <meta name="Distribution" content="Global" />
-        <meta name="Rating" content="general" />
-        <meta name="region" content="India" />
-        <meta name="geo.region" content="Coimbatore" />
             <title>MindMade Technologies</title>
             </head>
         <Header />  
