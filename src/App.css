@@ -1,3 +1,14 @@
-.font-50{
+.font-50 {
   font-size: 100px;
+}
+
+.desingn-tras-orgn {
+  transform-origin: 0px 0px 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.desingn-tras-orgn-2 {
+  transform-origin: 0px 0px 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  margin-top: 25px;
 }

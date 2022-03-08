@@ -28,7 +28,7 @@ function Header() {
                 <div className="menu-cover-title">Menu</div>
                 <ul className="extend-container p-relative d-flex flex-column justify-content-center h-100">
                     <li className="dsn-active">
-                        <a href="/#" className="user-no-selection">
+                        <a href="/" className="user-no-selection">
                             <span className="dsn-title-menu">Home</span>
                         </a>
                     </li>
@@ -50,7 +50,7 @@ function Header() {
                                 <span className="dsn-title-menu">Services</span>
                             </li>
                             <li>
-                                <a href="/#">
+                                <a href="/design">
                                     <span className="dsn-title-menu">Website Design</span>
                                 </a>
                             </li>
